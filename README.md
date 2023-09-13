@@ -6,7 +6,7 @@
 -Digital Artisan & Scholar 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JengaLabs&layout=pie)](https://github.com/JengaLabs/github-readme-stats&hide_progress=true)
 
 
 <!--

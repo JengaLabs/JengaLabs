@@ -1,7 +1,9 @@
-# Brandon J
 
+
+<p align="center">
+     Brandon J
+</p>
 **'Digital Artisan & Scholar'** 
-
 
 <!--
 **JengaLabs/JengaLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

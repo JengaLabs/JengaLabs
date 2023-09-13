@@ -1,25 +1,31 @@
 <h1> I'm Brandon, <span title="Hello World!" > &#128075;&#127760; </span> </h1>
 
+## :book: Who Am I?  
+-A Digital Artisan & Scholar who's passions reside in civil engineering and logistics. 
 
 
-## :book: Who Am I? 
--Digital Artisan & Scholar 
+
+
+## :book: Projects
+
+
+
+
+## :book: My Skill Set
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JengaLabs&layout=pie)](https://github.com/JengaLabs/github-readme-stats&hide_progress=true)
+## :book: Contacts
 
 
-<!--
-**JengaLabs/JengaLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :book: More
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+|  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JengaLabs&layout=pie)](https://github.com/JengaLabs/github-readme-stats&hide_progress=true)|[![GitHub Streak](https://streak-stats.demolab.com/?user=JengaLabs&theme=dark)](https://git.io/streak-stats)  |
+| -------- | ------- |
+

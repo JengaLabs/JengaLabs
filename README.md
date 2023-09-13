@@ -1,9 +1,13 @@
+<h1> I'm Brandon , <span title="Hello World!" > &#128075;&#127760; </span> </h1>
 
 
-<p align="center">
-     Brandon J
-</p>
-**'Digital Artisan & Scholar'** 
+
+## :book: Who Am I? 
+-Digital Artisan & Scholar 
+
+
+     
+
 
 <!--
 **JengaLabs/JengaLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-<h1> I'm Brandon, <span title="Hello World!" > &#128075;&#127760; </span> </h1>
+<h1> I'm B, <span title="Hello World!" > &#128075;&#127760; </span> </h1>
 
 ## :book: Who Am I?  
 -A Digital Artisan & Scholar who's passions reside in civil engineering and logistics. 
